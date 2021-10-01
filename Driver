@@ -1,0 +1,6 @@
+public class driver {
+    public static void main(String[]args) {
+        Calculator C1 = new Calculator();
+        C1.Display();
+    }
+}

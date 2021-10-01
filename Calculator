@@ -25,10 +25,10 @@ class Calculator {
         System.out.println();
         
 // Midpoint Formula
-        int ya = y1; 
-        int yb = y2; 
-        int xa = x1; 
-        int xb = x2;         
+        int ya = y1; // point ya (xa, ya)
+        int yb = y2; // point yb (xb, yb)
+        int xa = x1; // point xa (xa, ya)
+        int xb = x2; // point xb (xb, yb)        
         
         System.out.println("Midpoint formula");
         System.out.println("The midpoint between (0,0) and (2,3) is: " + "(" + midpointFormulaX(xa,xb) + ", " + midpointFormulaY(ya,yb) + ")");

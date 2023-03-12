@@ -1,9 +1,9 @@
 /* Jake Choi
- * September 29, 2021
+ * September 29, 2021 
  */
 
 class Calculator {
-    public void Display (){ 
+    public void Display () { 
 // Quadratic Formula
         int a = 1; //a coefficient that is multiplied by x^2 in quadratic equation
         int b = 5; //b coefficient that is multiplied by x in quadratic equation
